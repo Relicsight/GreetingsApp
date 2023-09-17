@@ -3,7 +3,7 @@
 ## What is it?
 It is a simple app made by using Kotlin in Android Studio.
 
-**Functions: **
+## Functions: 
 Displaying *Hello* with the entered *user_name*.
 
 *Future Addons:*
